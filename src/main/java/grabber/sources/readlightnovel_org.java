@@ -16,7 +16,7 @@ import java.util.List;
 
 public class readlightnovel_org implements Source {
     private final String name = "ReadLightNovel";
-    private final String url = "https://www.readlightnovel.org/";
+    private final String url = "https://www.readlightnovel.today/";
     private final boolean canHeadless = false;
     private Novel novel;
     private Document toc;
